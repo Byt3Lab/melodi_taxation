@@ -1,0 +1,14 @@
+{
+  "name": "melodi_taxation",
+  "title": "MELODI Fiscalité & Taxes",
+  "version": "1.0.0",
+  "description": "Moteur fiscal, gestion des zones de taxation, taux de TVA et règles d'application fiscale.",
+  "author": "BYT3LAB",
+  "category": "finance",
+  "icon": "percent",
+  "depends": [
+    "base",
+    "melodi_geo"
+  ],
+  "depends_python": []
+}
